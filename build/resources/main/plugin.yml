@@ -1,5 +1,5 @@
 name: Mahou
-version: '0.0.1'
+version: '0.0.2'
 main: mc.anime.mahou.Mahou
 api-version: 1.18
 authors: [ seph_ ]
@@ -10,3 +10,6 @@ commands:
   wingarudiumrebiousa:
     description: wing
     usage: /wingarudiumrebiousa [Player]
+  heal:
+    description: heal another player or yourself
+    usage: /heal | /heal [Player]

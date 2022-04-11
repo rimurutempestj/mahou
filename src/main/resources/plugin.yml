@@ -10,3 +10,6 @@ commands:
   wingarudiumrebiousa:
     description: wing
     usage: /wingarudiumrebiousa [Player]
+  heal:
+    description: heal another player or yourself
+    usage: /heal | /heal [Player]
