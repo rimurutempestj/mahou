@@ -1,0 +1,12 @@
+name: Mahou
+version: '${version}'
+main: mc.anime.mahou.Mahou
+api-version: 1.18
+authors: [ seph_ ]
+description: 대충 마법 쓰게해주는 플러그인
+website: https://github.com/rimurutempestj/mahou
+
+commands:
+  wingarudiumrebiousa:
+    description: wing
+    usage: /wingarudiumrebiousa [Player]
